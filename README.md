@@ -1,4 +1,4 @@
-![image](https://github.com/Ozankesatxx80/Create-a-Forge-Minecraft-Server/assets/117387780/3487c382-7283-4559-9d9b-f63d81579283)# Create-a-Forge-Minecraft-Server
+#Create-a-Forge-Minecraft-Server
 
 Bir Forge Sunucusu kurmak için öncelikle https://files.minecraftforge.net/net/minecraftforge/forge/ bu siteye gidiyoruz 
 
